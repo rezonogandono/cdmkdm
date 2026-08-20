@@ -199,7 +199,7 @@ WELCOME_TEXTS = {
         "• Service commission: 1%\n"
         "• Working hours: 24/7\n"
         "• Technical support: @TransferMetaSup\n"
-        "• Our site - \n\n"
+        "\n"
         f"{E_SHIELD} Choose a section below:"
     ),
     "ar": (
@@ -211,7 +211,7 @@ WELCOME_TEXTS = {
         "• عمولة الخدمة: 1%\n"
         "• ساعات العمل: 24/7\n"
         "• الدعم الفني: @TransferMetaSup\n@"
-        "• موقعنا - \n\n"
+        "\n"
         f"{E_SHIELD} اختر القسم المطلوب أدناه:"
     ),
     "zh": (
@@ -223,7 +223,7 @@ WELCOME_TEXTS = {
         "• 服务佣金：1%\n"
         "• 工作时间：24/7\n"
         "• 技术支持：@TransferMetaSup\n"
-        "• 我们的网站 - \n\n"
+        "\n"
         f"{E_SHIELD} 请在下方选择所需版块："
     ),
 }
