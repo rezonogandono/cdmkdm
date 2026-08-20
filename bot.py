@@ -186,8 +186,7 @@ WELCOME_TEXTS = {
         f"{E_CARD} Удобный и быстрый вывод средств.\n\n"
         "• Комиссия сервиса: 1%\n"
         "• Режим работы: 24/7\n"
-        "• Техническая поддержка: @TransferMetaSup\n"
-        "• Наш сайт - \n\n"
+        "• Техническая поддержка: @TransferMetaSup\n\n\"
         f"{E_SHIELD} Выберите нужный раздел ниже:"
     ),
     "en": (
@@ -198,8 +197,7 @@ WELCOME_TEXTS = {
         f"{E_CARD} Convenient and fast withdrawal.\n\n"
         "• Service commission: 1%\n"
         "• Working hours: 24/7\n"
-        "• Technical support: @TransferMetaSup\n"
-        "• Our site - \n\n"
+        "• Technical support: @TransferMetaSup\n\n\"
         f"{E_SHIELD} Choose a section below:"
     ),
     "ar": (
@@ -210,8 +208,7 @@ WELCOME_TEXTS = {
         f"{E_CARD} سحب مريح وسريع للأموال.\n\n"
         "• عمولة الخدمة: 1%\n"
         "• ساعات العمل: 24/7\n"
-        "• الدعم الفني: @TransferMetaSup\n@"
-        "• موقعنا - \n\n"
+        "• الدعم الفني: @TransferMetaSup\n\n"
         f"{E_SHIELD} اختر القسم المطلوب أدناه:"
     ),
     "zh": (
@@ -222,8 +219,7 @@ WELCOME_TEXTS = {
         f"{E_CARD} 便捷快速的资金提取。\n\n"
         "• 服务佣金：1%\n"
         "• 工作时间：24/7\n"
-        "• 技术支持：@TransferMetaSup\n"
-        "• 我们的网站 - \n\n"
+        "• 技术支持：@TransferMetaSup\n\n"
         f"{E_SHIELD} 请在下方选择所需版块："
     ),
 }
