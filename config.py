@@ -10,9 +10,9 @@ LOG_CHAT_ID = int(os.getenv("LOG_CHAT_ID"))
 BOT_USERNAME = os.getenv("BOT_USERNAME")
 
 # ── Ссылки ──────────────────────────────────────────────────────────────────
-URL_CHANNEL    = ""
+URL_CHANNEL    = "https://t.me/Official_MRKT"
 URL_SUPPORT    = os.getenv("URL_SUPPORT")
-URL_MINI_APP   = ""
+URL_MINI_APP   = "https://t.me/MRKT"
 
 # ── Пути к изображениям по языкам ───────────────────────────────────────────────
 # Если изображение для конкретного языка отсутствует, используется значение по умолчанию (оригинальное .jpg)
